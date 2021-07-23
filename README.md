@@ -1,2 +1,2 @@
-# Codes
-All interesting created codes
+# SPOJ
+All my solved SPOJ solutions
